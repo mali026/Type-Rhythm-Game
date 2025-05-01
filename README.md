@@ -73,6 +73,6 @@ Type Rhythm Game is a creative, educational tool that merges the utility of typi
 ## 💻 How to Run
 
 ```bash
-git clone https://github.com/your-username/type-rhythm-game.git
-cd type-rhythm-game
+git clone https://github.com/mali026/Type-Rhythm-Game.git
+cd Type-Thythm-game
 # Open index.html in your preferred browser
