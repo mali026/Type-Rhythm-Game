@@ -74,5 +74,5 @@ Type Rhythm Game is a creative, educational tool that merges the utility of typi
 
 ```bash
 git clone https://github.com/mali026/Type-Rhythm-Game.git
-cd Type-Thythm-game
+cd Type-Rhythm-Game
 # Open index.html in your preferred browser
